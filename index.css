@@ -1,0 +1,12 @@
+p{
+    padding: 10px;
+    background-color: #eaeaea;
+    border: 1px solid #616161;
+}
+p:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+form{
+    border-color: coral;
+}

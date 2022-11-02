@@ -1,0 +1,28 @@
+/*input{
+    background-color: rgba(74, 235, 205, 0.632);
+    border: 2px rgb(67, 76, 131) solid;
+    border-radius:10px;
+}
+input:hover{
+    background-color: antiquewhite;
+}
+button:hover{
+    background-color: antiquewhite;
+}
+button{
+    background-color: rgb(56, 208, 200);
+    margin: 10px;
+    border: 2px rgb(67, 76, 131) solid;
+    border-radius:10px;
+}
+#EmployeeList{
+    background-color: rgb(206, 206, 206);
+    padding: 5px;
+    padding-left: 15px;
+}
+#EmployeeAdd{
+    background-color: antiquewhite;
+    padding: 5px;
+    padding-left: 10px;
+}
+*/
